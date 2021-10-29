@@ -32,6 +32,9 @@ pip install -r requirements.txt
    For paddleOCR gpu version, refer https://www.paddlepaddle.org.cn/install/quick
 
 ## Running application
+
+The object detection model is deployed in tf-serve within a docker container. 
+
 Setup the environment and run the following command:
 ```bash
 python3 app.py
