@@ -22,5 +22,16 @@ Dataset link: https://www.kaggle.com/andrewmvd/car-plate-detection
 2. Optical Character Recognition: PaddleOCR is a ultra-light weight OCR model used by engineers of Baidu and trained on millions of images
      Paddle OCR repo: https://github.com/PaddlePaddle/PaddleOCR
      
+## Installation
+
+1. Install Tensorflow Object Detection API from the official documentation. Refer https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
+2. Installation of other packages are included in the requirements.txt
+     pip install -r requirements.txt
+   For paddleOCR gpu version, refer https://www.paddlepaddle.org.cn/install/quick
+
+## Running application
+Setup the environment and run the following command:
+     python app.py
+     
  
 
