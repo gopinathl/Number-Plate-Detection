@@ -1,0 +1,7 @@
+# This is the main .gitignore file in the DATA repository
+
+# Ignoring the following patterns:
+**idea
+/log
+*.DS_Store
+**/.DS_Store
